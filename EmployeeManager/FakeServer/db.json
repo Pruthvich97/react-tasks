@@ -1,0 +1,46 @@
+{
+  "ContactDetails": [
+    {
+      "ename": "Anand palyam",
+      "email": "anandplayam@gmail.com",
+      "Designation": "Automation assistant",
+      "id": "1e37"
+    },
+    {
+      "id": "8040",
+      "ename": "lokesh",
+      "email": "loki@123",
+      "Designation": "Test Enginner"
+    },
+    {
+      "id": "3109",
+      "ename": "kushal",
+      "email": "pkushal@gmail.com",
+      "Designation": "test automation"
+    },
+    {
+      "ename": "SaiKiran",
+      "email": "sai@gmail.com",
+      "Designation": "DevOps engineer",
+      "id": "aaae"
+    },
+    {
+      "ename": "Yeshwath",
+      "email": "Yeshwanth@gmail.com",
+      "Designation": "Automation Lead",
+      "id": "a989"
+    },
+    {
+      "id": "d4f2",
+      "ename": "naveen",
+      "email": "naveen@gmail.com",
+      "Designation": "project lead"
+    },
+    {
+      "id": "208f",
+      "ename": "Pruthvi",
+      "email": "pruthvi@gmail.com",
+      "Designation": "Software Developer"
+    }
+  ]
+}
